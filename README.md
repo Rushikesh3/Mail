@@ -1,0 +1,2 @@
+# Mail
+use nodemailer package
